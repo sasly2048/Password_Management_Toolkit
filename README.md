@@ -7,7 +7,7 @@ A Password Management Toolkit is a versatile C program designed to enhance user 
 
 ---
 
-## 🧠 Features  
+## 🧠 Features  :
 
  * **Dual Functionality** - The program serves two main purposes: checking the strength of an existing password and generating a new, random one.
  * **Real-time Password Evaluation** – Analyses the password as it is entered.
