@@ -23,10 +23,10 @@ A Password Management Toolkit is a versatile C program designed to enhance user 
 | Criteria | Description | Points |
 |-----------|--------------|--------|
 | Length ≥ 8 characters | Ensures basic security length | +1 |
-| Contains uppercase letters (A–Z) | Improves complexity | +1 |
-| Contains lowercase letters (a–z) | Improves diversity | +1 |
-| Contains digits (0–9) | Adds numerical strength | +1 |
-| Contains special characters (!, @, #, etc.) | Adds unpredictability | +1 |
+| Contains uppercase letters(A–Z) | Improves complexity | +1 |
+| Contains lowercase letters(a–z) | Improves diversity | +1 |
+| Contains digits(0–9) | Adds numerical strength | +1 |
+| Contains special characters(!, @, #, etc.) | Adds unpredictability | +1 |
 
 **Score Classification**  
 
