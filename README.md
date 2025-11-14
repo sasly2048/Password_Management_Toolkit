@@ -3,9 +3,9 @@
 A Password Management Toolkit is a versatile C program designed to enhance user security by providing two core functionalities : a **Password Strength Checker** and a **Random Password Generator**.
 
 - **Password Strength Checker (PSC) :** This module evaluates the robustness of a user-entered password. 
-- **Random Password Generator (RPG) :** This new feature creates strong, random passwords based on user-specified criteria. 
+- **Random Password Generator (RPG) :** This new feature creates strong, random passwords based on user-specified criteria.      
 
----
+----
 
 ## 🧠 Features  :
 
