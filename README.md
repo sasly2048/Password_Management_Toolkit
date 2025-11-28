@@ -1,4 +1,4 @@
-# 🔑 Password Management Toolkit
+# 🔑 Password Management Toolkit 
 
 A Password Management Toolkit is a versatile C program designed to enhance user security by providing two core functionalities : a **Password Strength Checker** and a **Random Password Generator**.
 
@@ -37,6 +37,14 @@ A Password Management Toolkit is a versatile C program designed to enhance user 
 | 3 | 🟡 Moderate |
 | 4 | 🟢 Strong |
 | 5 | 🟣 Very Strong |
+
+---
+
+## Test Online 🌐
+
+https://github.com/codespaces/psychic-space-parakeet-4j664xp54gv9cjxq5?editor=web 
+
+- In Terminal, paste the following command : gcc code.c -o code && ./code
 
 ---
 
