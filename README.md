@@ -40,11 +40,11 @@ A Password Management Toolkit is a versatile C program designed to enhance user 
 
 ---
 
-## Test Online 🌐
+## 🌐 Test Online 
 
 https://github.com/codespaces/psychic-space-parakeet-4j664xp54gv9cjxq5?editor=web 
 
-- In Terminal, paste the following command : gcc code.c -o code && ./code
+- In Terminal, paste the following command : _gcc code.c -o code && ./code_
 
 ---
 
